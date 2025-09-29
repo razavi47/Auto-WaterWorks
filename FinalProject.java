@@ -16,7 +16,6 @@ public class FinalProject {
     static long sensVal = 0;
     static long moistSoilVal = 680;
     static String pumpState = "OFF";
-
     static String graphTitle = "SOIL MOISTURE VS TIME";
 
     public static String BPM = "0";
