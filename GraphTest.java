@@ -41,5 +41,6 @@ public class GraphTest extends JPanel {
 
     public void update(float value) {
         series.add((double)System.currentTimeMillis(), (double)value);
+        
     }
 }
