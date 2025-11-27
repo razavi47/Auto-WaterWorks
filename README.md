@@ -1,5 +1,7 @@
 # Auto-WaterWorks
-An Automated plant watering system that automatically waters a plant based on soil moisture values measured.
+An Automated plant watering system that automatically waters a plant based on soil moisture values measured. 
+
+This project covers a variety of things. Using an Arduino Grove Board, there are two sensors
 
 Image of the setup labeled.
 
